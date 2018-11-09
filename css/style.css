@@ -1,0 +1,48 @@
+html, body {
+	overflow-x: hidden;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-image: url(../images/background.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.logo img {
+	width: 70%;
+	margin-top: 80px;
+}
+.form_section {
+	margin-bottom: 250px;
+}
+.form-control {
+    border: none;
+    padding: 1.475rem .75rem;
+    font-size: 18px;
+}
+.input-group-text {
+    background-color: #fff;
+    border: none;
+    color: grey;
+    font-size: 20px;
+    font-weight: inherit;
+}
+.form_section p {
+	color: #fff;
+	text-align: right;
+	font-family: 'Rubik', sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	margin-top: 10px;
+}
+footer {
+	margin-top: 20px;
+}
+footer p {
+	color: #fff;
+	font-family: 'Rubik', sans-serif;
+	font-weight: 300;
+	font-size: 12px;
+}
